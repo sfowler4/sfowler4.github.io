@@ -29,12 +29,12 @@ li{
 }
 
 a:link {
-    color: dodgerblue;
+    color: ghostwhite;
     text-decoration: none;
 }
 
 a:visited{
-    color: purple;
+    color: rgb(218, 122, 218);
     text-decoration: none;
 }
 
