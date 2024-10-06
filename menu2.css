@@ -7,7 +7,9 @@
 header{
     background-image: linear-gradient(to right, #99463b , #dfa04d)
 }
-
+img{
+    background-color: transparent;
+}
 body{
     background-color: black;
 }
